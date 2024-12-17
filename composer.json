@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "sepulchrestudios/poltergeist",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Poltergeist is a CRM that enables mix engineers and clients to collaborate throughout the project and revision process seamlessly.",
     "keywords": [
         "laravel",
         "framework"
